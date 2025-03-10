@@ -39,3 +39,9 @@ Para evaluar el funcionamiento de su código, deberá realizar lo siguiente en e
 2) Imprimir la lista original.
 3) Utilizar el método **Reverse Inplace** para invertir la lista original.
 
+## Results
+
+![Console results](https://github.com/Juanda-C7/reverse-linked-list/blob/main/imgs/CapturaTerminal.png) 
+
+
+
